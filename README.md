@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-My name is Renata Hirota and I'm a statistician / journalist.
+My name is Renata Hirota and I'm an MSc candidate in statistics and data journalist.
 
-🔭 I’m currently a researcher at [ABJ](https://abj.org.br/), where I work with jurimetrics, or the application of quantitative methods to law. 
+💼 I’m currently a statistician at [Mtrix](https://www.mtrix.com.br/), where I work with the Operations team to optimize our processes, from identifying inconsistencies to improving data products.
 
-🌱 I also occasionally work with data journalism, analysing data for stories or developing applications for journalistic purposes.
+🌱 I also work with data journalism at [InfoAmazonia](https://infoamazonia.org/en/), analysing data for stories about climate change and deforestation.
 
 👩🏻‍💻 I love everything R and I'm part of [R-Ladies Sao Paulo](https://www.meetup.com/pt-BR/rladies-sao-paulo/).
 
 ⚾️ My hobbies include playing baseball and D&D 🎲🐉
 
 📫 How to reach me: 
-- email me: [re.hirota@gmail.com](mailto:re.hirota@gmail.com)
+- my website: [hirota.dev](https://hirota.dev)
+- email me: [renata@hirota.dev](mailto:renata@hirota.dev)
 - DM me at Fosstodon: [@rmhirota](https://fosstodon.org/@rmhirota)
-- DM me at Twitter: [@renata_mh](https://twitter.com/renata_mh)
+- DM me at Bluesky: [@hirota.dev](https://bsky.app/profile/hirota.dev)
