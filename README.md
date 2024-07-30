@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Renata Hirota and I'm an MSc candidate in statistics and data journalist.
+My name is Renata Hirota and I'm a data journalist and MSc candidate in statistics at the University of Sao Paulo.
 
 💼 I’m currently a statistician at [Mtrix](https://www.mtrix.com.br/), where I work with the Operations team to optimize our processes, from identifying inconsistencies to improving data products.
 
