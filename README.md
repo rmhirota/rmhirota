@@ -2,7 +2,7 @@
 
 My name is Renata Hirota and I'm a data journalist and MSc candidate in statistics at the University of Sao Paulo.
 
-💼 I’m currently a statistician at [Mtrix](https://www.mtrix.com.br/), where I work with the Operations team to optimize our processes, from identifying inconsistencies to improving data products.
+💼 I’m currently a data analyst at [Jusbrasil](https://www.jusbrasil.com.br/).
 
 🌱 I also work with data journalism at [InfoAmazonia](https://infoamazonia.org/en/), analysing data for stories about climate change and deforestation.
 
